@@ -1,2 +1,1 @@
-# .github
-Profile introduction
+# Akash Giri - [akashgiri.com](https://akashgiri.com/)
